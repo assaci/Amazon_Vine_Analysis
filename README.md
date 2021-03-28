@@ -36,10 +36,11 @@ For this analysis, to determine if having a paid Vine review would make a differ
 
 ## Summary 
 
-From our findings, SellBy received a total of 39095 reviews. From these reviews, 26573  as 68% reviews were from Amazon Vine Program and 12522 as 32% were from nonVine program. 
+From the findings, SellBy received a total of 39095 reviews. From these reviews, 26573  as 68% reviews were from Amazon Vine Program and 12522 as 32% were from nonVine program. 
 The number of 5-star reviews was 18371 as 47% of all Vine and nonVine reviews.
-When we breakdown the number of 5-star reviews, 49% were from the Vine program and 41% were from the nonVine program. 
-Even if the percentage of paid and unpaid reviews were slightly different (8%), They were both in the 40% range. In conclusion, there was no positivity bias for reviews in the Vine program. 
+From the number of 5-star reviews, 49% were from the Vine program and 41% were from the nonVine program. 
+Even if the percentage of paid and unpaid reviews were slightly different (8%), They were both in the 40% range. 
+In conclusion, there was no positivity bias for reviews in the Vine program. 
 
 
 
