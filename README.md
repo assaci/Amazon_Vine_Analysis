@@ -10,9 +10,13 @@ In this study, we used PySpark to perform ETL on Amazon Product Reviews and dete
 
 For my analysis, I choose Home_Improvement reviews from Amazon Reviews dataset. I created an AWS RDS database with tables in pgAdmin. I used Google Colab Notebook to extract the Home_Improvement data and created  4 DataFrames :the customers_table DataFrame, products_table DataFrame, review_id_table DataFrame and vine_table DataFrame.
 
+![Cust](https://github.com/assaci/Pyber_Analysis/blob/main/Cust.PNG?raw=true)
 
+![Prod](https://github.com/assaci/Pyber_Analysis/blob/main/Prod.PNG?raw=true)
 
+![Prod](https://github.com/assaci/Pyber_Analysis/blob/main/Prod.PNG?raw=true)
 
+![vine](https://github.com/assaci/Pyber_Analysis/blob/main/vine.PNG?raw=true)
 
 ## Determine Bias of Vine Reviews
 
