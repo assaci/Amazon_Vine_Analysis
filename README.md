@@ -10,14 +10,6 @@ In this study, we used PySpark to perform ETL on Amazon Product Reviews and dete
 
 For this analysis, I choose Home_Improvement reviews from Amazon Reviews dataset. I created an AWS RDS database with tables in pgAdmin. I used Google Colab Notebook to extract the Home_Improvement data and created  4 DataFrames :the customers_table DataFrame, products_table DataFrame, review_id_table DataFrame and vine_table DataFrame.
 
-![Cust](https://github.com/assaci/Amazon_Vine_Analysis/blob/main/pict/Cust.PNG?raw=true)
-
-![Prod](https://github.com/assaci/Amazon_Vine_Analysis/blob/main/pict/Prod.PNG?raw=true)
-
-![review](https://github.com/assaci/Amazon_Vine_Analysis/blob/main/pict/review.PNG?raw=true)
-
-![vine](https://github.com/assaci/Amazon_Vine_Analysis/blob/main/pict/vine.PNG?raw=true)
-
 ## Determine Bias of Vine Reviews
 
 For this analysis, to determine if having a paid Vine review would make a difference in the percentage of 5-star reviews, i filtered vine_table data and calculated the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid):
